@@ -3,9 +3,9 @@
   <img alt="Ubakel. Audit. Automate. Advance." src="https://raw.githubusercontent.com/ubakel/ubakel/main/assets/repo-header-light.png" width="100%">
 </picture>
 
-# WhatsApp Clinic Booking Assistant
+# Ubakel Front Desk
 
-A multilingual AI receptionist that runs on WhatsApp and turns a normal conversation into a **database-backed appointment**: it finds the patient, checks availability, books and manages the appointment, and hands over to a human when it should.
+*A WhatsApp clinic booking assistant.* A multilingual AI receptionist that runs on WhatsApp and turns a normal conversation into a **database-backed appointment**: it finds the patient, checks availability, books and manages the appointment, and hands over to a human when it should.
 
 In end-to-end testing against a demo clinic, a booking completed in about 2 minutes.
 
